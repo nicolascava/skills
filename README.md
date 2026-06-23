@@ -1,7 +1,6 @@
 # Skills
 
-Public agent skills published from
-[nicolascava/monorepo](https://github.com/nicolascava/monorepo).
+Public agent skills for coding assistants.
 
 ## Usage
 
