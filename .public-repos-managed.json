@@ -1,7 +1,12 @@
 {
+  "managedRoots": [
+    ".claude/skills"
+  ],
+  "cleanupRoots": [],
   "scaffoldDestinations": [
     "README.md",
     "LICENSE",
+    "CONTRIBUTING.md",
     "CHEAT_SHEET.md"
   ]
 }
