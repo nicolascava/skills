@@ -1,6 +1,7 @@
 {
   "scaffoldDestinations": [
     "README.md",
-    "LICENSE"
+    "LICENSE",
+    "CHEAT_SHEET.md"
   ]
 }
