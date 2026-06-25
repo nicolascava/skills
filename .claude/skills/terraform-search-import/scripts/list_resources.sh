@@ -1,6 +1,6 @@
 #!/bin/bash
 # Extract list resources supported by Terraform providers
-# Usage: ./list_resources.sh [provider_name]
+# Usage: https://github.com/nicolascava/skills/blob/main/.claude/skills/terraform-search-import/scripts/list_resources.sh [provider_name]
 # Requires: terraform, jq
 # Note: Run from an initialized Terraform directory (terraform init)
 

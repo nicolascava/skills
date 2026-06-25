@@ -384,7 +384,7 @@ COPY scripts/disable-turbofan.cjs ./scripts/disable-turbofan.cjs
 
 **Why `--no-turbofan` instead of direct `NODE_OPTIONS=--no-turbofan`:** `--no-turbofan` is not on the `NODE_OPTIONS` allowlist and Node will reject it. The `--require` preload bypasses this by calling the V8 API directly at startup, and `NODE_OPTIONS` propagates it to Next.js child workers automatically.
 
-Reference: `apps/web/scripts/disable-turbofan.cjs`, PRs #234 → #237.
+Keep the preload script in the app repository and copy it into the Docker build stage.
 
 ---
 

@@ -1,9 +1,9 @@
 # Testing Frameworks - Detailed Guide
 
-> **Part of:** [terraform](../SKILL.md)
+> **Part of:** [terraform](https://github.com/nicolascava/skills/blob/main/.claude/skills/terraform/SKILL.md
 > **Purpose:** Detailed guides for Terraform/OpenTofu testing frameworks
 
-This document provides in-depth guidance on testing frameworks for Infrastructure as Code. For the decision matrix and high-level overview, see the [main skill file](../SKILL.md#testing-strategy-framework).
+This document provides in-depth guidance on testing frameworks for Infrastructure as Code. For the decision matrix and high-level overview, see the [main skill file](https://github.com/nicolascava/skills/blob/main/.claude/skills/terraform/SKILL.md#testing-strategy-framework).
 
 ---
 
@@ -560,4 +560,4 @@ Pre-1.6, or complex integration? → Terratest
 
 ---
 
-**Back to:** [Main Skill File](../SKILL.md)
+**Back to:** [Main Skill File](https://github.com/nicolascava/skills/blob/main/.claude/skills/terraform/SKILL.md

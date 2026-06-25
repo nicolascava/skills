@@ -5,8 +5,8 @@
 ```
 supabase-postgres-best-practices/
   SKILL.md       # Main skill file - read this first
-  AGENTS.md      # This navigation guide
-  CLAUDE.md      # Symlink to AGENTS.md
+  https://github.com/nicolascava/skills/blob/main/.claude/skills/supabase-postgres-best-practices/AGENTS.md      # This navigation guide
+  https://github.com/nicolascava/skills/blob/main/.claude/skills/supabase-postgres-best-practices/CLAUDE.md      # Symlink to https://github.com/nicolascava/skills/blob/main/.claude/skills/supabase-postgres-best-practices/AGENTS.md
   references/    # Detailed reference files
 ```
 

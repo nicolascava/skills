@@ -138,4 +138,4 @@ Each rule file contains:
 
 ## Full Compiled Document
 
-For the complete guide with all rules expanded: `AGENTS.md`
+For the complete guide with all rules expanded: `https://github.com/nicolascava/skills/blob/main/.claude/skills/react-best-practices/AGENTS.md`

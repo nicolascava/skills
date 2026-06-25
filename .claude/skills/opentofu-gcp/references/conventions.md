@@ -1,6 +1,6 @@
 # GCP Conventions & Standards
 
-> **Part of:** [opentofu-skill-gcp](../SKILL.md)
+> **Part of:** [opentofu-skill-gcp](https://github.com/nicolascava/skills/blob/main/.claude/skills/opentofu-gcp/SKILL.md
 > **Purpose:** Required GCP labels, naming conventions, and organization templates
 
 This document provides standardized conventions for OpenTofu/GCP projects to ensure consistency, cost tracking, and compliance.
@@ -666,4 +666,4 @@ locals {
 
 ---
 
-**Back to:** [Main Skill File](../SKILL.md)
+**Back to:** [Main Skill File](https://github.com/nicolascava/skills/blob/main/.claude/skills/opentofu-gcp/SKILL.md

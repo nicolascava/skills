@@ -31,7 +31,7 @@ This skill helps you write effective tests using Vitest following the project's 
 | Accessibility audits | `@axe-core/playwright` |
 | Bun-runtime packages (exception) | `bun test` + lcov coverage |
 
-See `docs/templates/testing-standards.md` for full setup instructions and the Bun-runtime exception rationale.
+See the target repository's testing standards for full setup instructions and runtime exception rationale.
 
 ## When to Use
 
@@ -42,7 +42,7 @@ See `docs/templates/testing-standards.md` for full setup instructions and the Bu
 - Mocking modules and functions with `vi.*`
 
 **Do NOT use for:**
-- End-to-end testing: use Playwright (see `docs/templates/testing-standards.md`)
+- End-to-end testing: use Playwright and follow the target repository's testing standards.
 - Packages that depend on `Bun.*` APIs: keep those on `bun test`
 
 ## Test infrastructure
@@ -195,4 +195,4 @@ pnpm coverage:readme   # regenerate README.md coverage block
 
 - [Vitest documentation](https://vitest.dev)
 - [Vitest mocking guide](https://vitest.dev/guide/mocking)
-- [Testing standards template](../../docs/templates/testing-standards.md)
+- Testing standards in the target repository

@@ -28,14 +28,14 @@ Discover existing cloud resources using declarative queries and generate configu
 
 ```bash
 # Check what list resources are available
-./scripts/list_resources.sh aws      # Specific provider
-./scripts/list_resources.sh          # All configured providers
+https://github.com/nicolascava/skills/blob/main/.claude/skills/terraform-search-import/scripts/list_resources.sh aws      # Specific provider
+https://github.com/nicolascava/skills/blob/main/.claude/skills/terraform-search-import/scripts/list_resources.sh          # All configured providers
 ```
 
 ## Decision Tree
 
 1. **Identify target resource type** (e.g., aws_s3_bucket, aws_instance)
-2. **Check if supported**: Run `./scripts/list_resources.sh <provider>`
+2. **Check if supported**: Run `https://github.com/nicolascava/skills/blob/main/.claude/skills/terraform-search-import/scripts/list_resources.sh <provider>`
 3. **Choose workflow**:
    - ** If supported**: Check for terraform version available.
    - ** If terraform version is above 1.14.0** Use Terraform Search workflow (below)
@@ -53,8 +53,8 @@ Run the helper script to extract supported list resources from your provider:
 
 ```bash
 # From a directory with provider configuration (runs terraform init if needed)
-./scripts/list_resources.sh aws      # Specific provider
-./scripts/list_resources.sh          # All configured providers
+https://github.com/nicolascava/skills/blob/main/.claude/skills/terraform-search-import/scripts/list_resources.sh aws      # Specific provider
+https://github.com/nicolascava/skills/blob/main/.claude/skills/terraform-search-import/scripts/list_resources.sh          # All configured providers
 ```
 
 Or manually query the provider schema:

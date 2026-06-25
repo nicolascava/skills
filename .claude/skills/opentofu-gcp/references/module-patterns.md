@@ -1,6 +1,6 @@
 # Module Development Patterns
 
-> **Part of:** [opentofu-skill-gcp](../SKILL.md)
+> **Part of:** [opentofu-skill-gcp](https://github.com/nicolascava/skills/blob/main/.claude/skills/opentofu-gcp/SKILL.md
 > **Purpose:** Best practices for OpenTofu module development for GCP
 
 This document provides detailed guidance on creating reusable, maintainable OpenTofu modules for Google Cloud Platform.
@@ -814,4 +814,4 @@ credentials.json
 
 ---
 
-**Back to:** [Main Skill File](../SKILL.md)
+**Back to:** [Main Skill File](https://github.com/nicolascava/skills/blob/main/.claude/skills/opentofu-gcp/SKILL.md

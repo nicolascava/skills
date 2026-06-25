@@ -1,6 +1,6 @@
 # Security & Compliance for GCP
 
-> **Part of:** [opentofu-skill-gcp](../SKILL.md)
+> **Part of:** [opentofu-skill-gcp](https://github.com/nicolascava/skills/blob/main/.claude/skills/opentofu-gcp/SKILL.md
 > **Purpose:** Security best practices and compliance patterns for OpenTofu/GCP
 
 This document provides security hardening guidance, three-tier scanning integration, and compliance automation strategies for GCP infrastructure-as-code.
@@ -758,4 +758,4 @@ resource "google_storage_bucket_iam_binding" "state_access" {
 
 ---
 
-**Back to:** [Main Skill File](../SKILL.md)
+**Back to:** [Main Skill File](https://github.com/nicolascava/skills/blob/main/.claude/skills/opentofu-gcp/SKILL.md

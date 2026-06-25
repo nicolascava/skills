@@ -1,6 +1,6 @@
 # Quick Reference
 
-> **Part of:** [terraform](../SKILL.md)
+> **Part of:** [terraform](https://github.com/nicolascava/skills/blob/main/.claude/skills/terraform/SKILL.md
 > **Purpose:** Command cheat sheets and decision flowcharts
 
 This document provides quick lookup tables, command references, and decision flowcharts for rapid consultation during development.
@@ -597,4 +597,4 @@ Standard module structure:
 
 ---
 
-**Back to:** [Main Skill File](../SKILL.md)
+**Back to:** [Main Skill File](https://github.com/nicolascava/skills/blob/main/.claude/skills/terraform/SKILL.md

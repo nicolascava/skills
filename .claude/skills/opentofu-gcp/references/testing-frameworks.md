@@ -1,6 +1,6 @@
 # Testing Frameworks Guide
 
-> **Part of:** [opentofu-skill-gcp](../SKILL.md)
+> **Part of:** [opentofu-skill-gcp](https://github.com/nicolascava/skills/blob/main/.claude/skills/opentofu-gcp/SKILL.md
 > **Purpose:** Deep dive into testing approaches for OpenTofu/GCP
 
 This document provides comprehensive testing strategies from static analysis to full integration testing with GCP resources.
@@ -693,4 +693,4 @@ Native tests with `command = apply` automatically destroy resources after the te
 
 ---
 
-**Back to:** [Main Skill File](../SKILL.md)
+**Back to:** [Main Skill File](https://github.com/nicolascava/skills/blob/main/.claude/skills/opentofu-gcp/SKILL.md

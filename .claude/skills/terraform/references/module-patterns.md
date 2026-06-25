@@ -1,9 +1,9 @@
 # Module Development Patterns
 
-> **Part of:** [terraform](../SKILL.md)
+> **Part of:** [terraform](https://github.com/nicolascava/skills/blob/main/.claude/skills/terraform/SKILL.md
 > **Purpose:** Best practices for Terraform/OpenTofu module development
 
-This document provides detailed guidance on creating reusable, maintainable Terraform modules. For high-level principles, see the [main skill file](../SKILL.md#core-principles).
+This document provides detailed guidance on creating reusable, maintainable Terraform modules. For high-level principles, see the [main skill file](https://github.com/nicolascava/skills/blob/main/.claude/skills/terraform/SKILL.md#core-principles).
 
 ---
 
@@ -1123,4 +1123,4 @@ AFTER_COUNT=$(terraform state list | wc -l)
 
 ---
 
-**Back to:** [Main Skill File](../SKILL.md)
+**Back to:** [Main Skill File](https://github.com/nicolascava/skills/blob/main/.claude/skills/terraform/SKILL.md

@@ -48,7 +48,7 @@ Components install to `app/components/ui/`. After installation:
 
 ### Theme via CSS variables
 
-Design tokens live in `apps/web/app/globals.css` using OKLch color space. shadcn/ui expects HSL by default. When adding shadcn components, map CSS variable references to our existing OKLch tokens:
+Design tokens live in the consuming app's global stylesheet using OKLch color space. shadcn/ui expects HSL by default. When adding shadcn components, map CSS variable references to the existing OKLch tokens:
 
 ```css
 /* Our existing tokens (OKLch) */
@@ -132,5 +132,4 @@ After adding or migrating a component:
 2. `pnpm tsc` - Verify types.
 3. `pnpm lint` - Verify lint.
 4. Manual check: keyboard navigation works, focus management correct, dark mode renders, responsive at sm/md/lg.
-5. If the component has tests, run `pnpm --filter @monorepo/nicolas-cava test`.
-
+5. If the component has tests, run `pnpm --filter @monorepo/web test`.

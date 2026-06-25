@@ -1,6 +1,6 @@
 # Code Patterns & Structure
 
-> **Part of:** [opentofu-skill-gcp](../SKILL.md)
+> **Part of:** [opentofu-skill-gcp](https://github.com/nicolascava/skills/blob/main/.claude/skills/opentofu-gcp/SKILL.md
 > **Purpose:** Comprehensive patterns for OpenTofu code structure and modern features for GCP
 
 This document provides detailed code patterns, structure guidelines, and modern OpenTofu features for Google Cloud Platform.
@@ -794,4 +794,4 @@ For most GCP projects, **OpenTofu only** or **Terragrunt** are recommended:
 
 ---
 
-**Back to:** [Main Skill File](../SKILL.md)
+**Back to:** [Main Skill File](https://github.com/nicolascava/skills/blob/main/.claude/skills/opentofu-gcp/SKILL.md

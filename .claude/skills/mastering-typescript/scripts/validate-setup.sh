@@ -5,7 +5,7 @@
 # Checks that TypeScript project is properly configured for development.
 # Run before starting development or deploying.
 #
-# Usage: ./validate-setup.sh
+# Usage: https://github.com/nicolascava/skills/blob/main/.claude/skills/mastering-typescript/scripts/validate-setup.sh
 #
 
 set -euo pipefail

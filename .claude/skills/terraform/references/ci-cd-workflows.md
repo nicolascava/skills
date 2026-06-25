@@ -1,6 +1,6 @@
 # CI/CD Workflows for Terraform
 
-> **Part of:** [terraform](../SKILL.md)
+> **Part of:** [terraform](https://github.com/nicolascava/skills/blob/main/.claude/skills/terraform/SKILL.md
 > **Purpose:** CI/CD integration patterns for Terraform/OpenTofu
 
 This document provides detailed CI/CD workflow templates and optimization strategies for infrastructure-as-code pipelines.
@@ -470,4 +470,4 @@ bucketName := fmt.Sprintf("test-bucket-%s-%s",
 
 ---
 
-**Back to:** [Main Skill File](../SKILL.md)
+**Back to:** [Main Skill File](https://github.com/nicolascava/skills/blob/main/.claude/skills/terraform/SKILL.md

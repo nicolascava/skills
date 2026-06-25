@@ -1,9 +1,9 @@
 # Code Patterns & Structure
 
-> **Part of:** [terraform](../SKILL.md)
+> **Part of:** [terraform](https://github.com/nicolascava/skills/blob/main/.claude/skills/terraform/SKILL.md
 > **Purpose:** Comprehensive patterns for Terraform/OpenTofu code structure and modern features
 
-This document provides detailed code patterns, structure guidelines, and modern Terraform features. For high-level principles, see the [main skill file](../SKILL.md).
+This document provides detailed code patterns, structure guidelines, and modern Terraform features. For high-level principles, see the [main skill file](https://github.com/nicolascava/skills/blob/main/.claude/skills/terraform/SKILL.md
 
 ---
 
@@ -856,4 +856,4 @@ resource "aws_subnet" "public" {
 
 ---
 
-**Back to:** [Main Skill File](../SKILL.md)
+**Back to:** [Main Skill File](https://github.com/nicolascava/skills/blob/main/.claude/skills/terraform/SKILL.md

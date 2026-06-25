@@ -1,6 +1,6 @@
 # Security & Compliance
 
-> **Part of:** [terraform](../SKILL.md)
+> **Part of:** [terraform](https://github.com/nicolascava/skills/blob/main/.claude/skills/terraform/SKILL.md
 > **Purpose:** Security best practices and compliance patterns for Terraform/OpenTofu
 
 This document provides security hardening guidance and compliance automation strategies for infrastructure-as-code.
@@ -467,4 +467,4 @@ resource "aws_iam_policy" "bad_policy" {
 
 ---
 
-**Back to:** [Main Skill File](../SKILL.md)
+**Back to:** [Main Skill File](https://github.com/nicolascava/skills/blob/main/.claude/skills/terraform/SKILL.md

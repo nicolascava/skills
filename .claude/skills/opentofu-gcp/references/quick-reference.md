@@ -1,6 +1,6 @@
 # Quick Reference
 
-> **Part of:** [opentofu-skill-gcp](../SKILL.md)
+> **Part of:** [opentofu-skill-gcp](https://github.com/nicolascava/skills/blob/main/.claude/skills/opentofu-gcp/SKILL.md
 > **Purpose:** Command cheat sheets and decision flowcharts for OpenTofu/GCP
 
 This document provides quick lookup tables, command references, and decision flowcharts for rapid consultation during development.
@@ -573,4 +573,4 @@ Standard module structure:
 
 ---
 
-**Back to:** [Main Skill File](../SKILL.md)
+**Back to:** [Main Skill File](https://github.com/nicolascava/skills/blob/main/.claude/skills/opentofu-gcp/SKILL.md

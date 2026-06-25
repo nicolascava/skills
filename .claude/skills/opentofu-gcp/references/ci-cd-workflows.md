@@ -1,6 +1,6 @@
 # CI/CD Workflows for OpenTofu/GCP
 
-> **Part of:** [opentofu-skill-gcp](../SKILL.md)
+> **Part of:** [opentofu-skill-gcp](https://github.com/nicolascava/skills/blob/main/.claude/skills/opentofu-gcp/SKILL.md
 > **Purpose:** CI/CD integration patterns for OpenTofu with GCP
 
 This document provides detailed CI/CD workflow templates and optimization strategies for OpenTofu/GCP infrastructure-as-code pipelines.
@@ -805,4 +805,4 @@ tofu force-unlock LOCK_ID
 
 ---
 
-**Back to:** [Main Skill File](../SKILL.md)
+**Back to:** [Main Skill File](https://github.com/nicolascava/skills/blob/main/.claude/skills/opentofu-gcp/SKILL.md
